@@ -10,7 +10,7 @@
 
 ## Olá pessoal 👋
 Estou adquirindo conhecimentos de programação.
-Sou estudante de Engenharia de Sofware :computer: (Bacharelado | 1° Período)
+Sou estudante de Engenharia de Sofware :computer: (Bacharelado | 2° Período)
 
  :rocket:  &nbsp; Estudo na **PUC-PR | Curitiba-PR**
  <br/> :purple_heart: &nbsp; Estou aprendendo a desenvolver projetos em Front-end usando React
