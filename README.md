@@ -3,14 +3,20 @@
 <!--
 **OzneKx/OzneKx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Kenzo De Albuquerque
+
+## Olá pessoal 👋
+Estou adquirindo conhecimentos de programação.
+Sou estudante de Engenharia de Sofware :computer: (Bacharelado | 1° Período)
+
+ :rocket:  &nbsp; Estudo na **PUC-PR | Curitiba-PR**
+ <br/> :purple_heart: &nbsp; Estou aprendendo a desenvolver projetos em Front-end usando React
+ <br/> :blush: &nbsp; Utilizando também CSS Grid Layout e Flexbox
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias e games
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://www.linkedin.com/in/kenzo-albuquerque-software-engineering/) 
+| 
+![Gmail Badge](kenzoalbuqk@gmail.com)
