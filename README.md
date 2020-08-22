@@ -1,5 +1,5 @@
 ### Hi there - README 👋
-<img align="center" height="300px" width="auto" src="https://static01.nyt.com/images/2017/12/25/us/25xp-McCandless-obit-1/25xp-McCandless--obit-1-superJumbo-v2.jpg">
+<img align="center" height="200px" width="auto" src="https://static01.nyt.com/images/2017/12/25/us/25xp-McCandless-obit-1/25xp-McCandless--obit-1-superJumbo-v2.jpg">
 
 # Kenzo De Albuquerque
 
