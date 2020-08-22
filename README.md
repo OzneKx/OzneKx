@@ -18,6 +18,3 @@ I am a Software Engineering student :computer: (Baccalaureate | 2° Semester / 8
 <a href="mailto:contact@kenzoalbuqk.me"><img src="https://img.shields.io/badge/-contact@kenzoalbuqk.me-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:contact@kenzoalbuq@.me" alt="Gmail"/></a>
 
 </div>
-
-[![Linkedin Badge](https://img.shields.io/badge/-KenzoDeAlbuquerque-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenzo-albuquerque-software-engineering/)
-[![Gmail Badge](https://img.shields.io/badge/-kenzoalbuqk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=purple&link=mailto:kenzoalbuqk@gmail.com)](mailto:kenzoalbuqk@gmail.com)
