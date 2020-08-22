@@ -14,5 +14,5 @@ I am a Software Engineering student :computer: (Baccalaureate | 2° Semester / 8
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias e games
  <br/> :email: &nbsp; Contact me: 
 
-[![Linkedin Badge](https://img.shields.io/badge/-KenzoAlbuquerque-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenzo-albuquerque-software-engineering/)
+[![Linkedin Badge](https://img.shields.io/badge/-KenzoDeAlbuquerque-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenzo-albuquerque-software-engineering/)
 [![Gmail Badge](https://img.shields.io/badge/-kenzoalbuqk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=purple&link=mailto:kenzoalbuqk@gmail.com)](mailto:kenzoalbuqk@gmail.com)
