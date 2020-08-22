@@ -7,11 +7,9 @@
 
 I am a Software Engineering student :computer: (Baccalaureate | 2° Semester / 8) acquiring knowledge in the world of programming
 
- :rocket:  &nbsp; Estudo na **PUC-PR | Curitiba-PR**
- <br/> :purple_heart: &nbsp; Estou aprendendo a desenvolver projetos em Front-end usando React
- <br/> :blush: &nbsp; Utilizando também CSS Grid Layout e Flexbox
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias e games
+ :rocket:  &nbsp; Studying at **PUC-PR | Curitiba-PR**
+ <br/> :purple_heart: &nbsp; Learning to delevop back-end / front-end projects
+ <br/> :computer: &nbsp; My stack: ReactJS, Node.js, React Native & Typescript
  <br/> :email: &nbsp; Contact me: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-KenzoDeAlbuquerque-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenzo-albuquerque-software-engineering/)
