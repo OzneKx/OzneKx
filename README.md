@@ -6,7 +6,7 @@ I am a Software Engineering student :computer: (Baccalaureate | 2° Semester / 8
 
  :rocket:  &nbsp; Studying at **PUC-PR | Curitiba-PR**
  <br/> :purple_heart: &nbsp; Learning to delevop back-end / front-end projects
- <br/> :computer: &nbsp; My stack: ReactJS, Node.js, React Native & Typescript  || Python && Java
+ <br/> :computer: &nbsp; My stack:Python && Java
  <br/> :email: &nbsp; Contact me: 
 
 <div align="center">
