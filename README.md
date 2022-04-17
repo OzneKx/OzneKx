@@ -2,7 +2,7 @@
 
 ## Kenzo De Albuquerque 👋
 
-I am a Software Engineering student :computer: (Baccalaureate | 4° Semester / 8) acquiring knowledge in the world of programming
+I am a Software Engineering student :computer: (Baccalaureate | 5° Semester / 8) acquiring knowledge in the world of programming
 
  :rocket:  &nbsp; Studying at **PUC-PR | Curitiba-PR**
  <br/> :purple_heart: &nbsp; Learning to delevop back-end / front-end projects
