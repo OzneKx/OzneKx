@@ -2,11 +2,11 @@
 
 ## Kenzo De Albuquerque 👋
 
-I am a Software Engineering student :computer: (Baccalaureate | 5° Semester / 8) acquiring knowledge in the world of programming
+I am a Software Engineering student :computer: acquiring knowledge in the world of programming
 
- :rocket:  &nbsp; Studying at **PUC-PR | Curitiba-PR**
+ :rocket:  &nbsp; Studied at **PUC-PR | Curitiba-PR**
  <br/> :purple_heart: &nbsp; Learning to delevop back-end / front-end projects
- <br/> :computer: &nbsp; My stack: Python && Java
+ <br/> :computer: &nbsp; My stack: Java, ReactJS, Python, HTML/CSS, SQL
  <br/> :email: &nbsp; Contact me: 
 
 <div align="center">
