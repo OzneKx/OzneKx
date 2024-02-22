@@ -2,7 +2,7 @@
 
 ## Kenzo De Albuquerque 👋
 
-I am a Software Engineering :computer: acquiring knowledge in the world of programming
+I am a Software Engineer :computer: acquiring knowledge in the world of programming
 
  :rocket:  &nbsp; Studied at **PUC-PR | Curitiba-PR**
  <br/> :purple_heart: &nbsp; Learning to delevop back-end / front-end projects
